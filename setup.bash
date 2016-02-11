@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#Written by tide1218
 
 exc 2> /tmp/setup.log
 
