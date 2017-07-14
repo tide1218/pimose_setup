@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#written by tide
 
 exc 2> /tmp/setup.log
 
